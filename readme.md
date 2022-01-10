@@ -1,17 +1,3 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+Getting started with Three Js
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
-
-``` bash
-# Install dependencies (only the first time)
-npm install
-
-# Run the local server at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
+visit Linkedin post for video: https://www.linkedin.com/posts/sophiya02_react-github-threejs-activity-6886293691158413312-RHOS
